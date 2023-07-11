@@ -1,5 +1,5 @@
 # Deep Q Learning - LunarLander
-This is the implementation of the deep Q-learning [[paper] (https://arxiv.org/abs/1312.5602)] to solve the LunarLander-v2 environment from OpenAI [Gym (https://www.gymlibrary.dev/)]. The environment is considered solved when achieving a final score of 200 points or higher on average over the last 100 consecutive runs. 
+This is the implementation of the deep Q-learning [[paper](https://arxiv.org/abs/1312.5602)] to solve the LunarLander-v2 environment from OpenAI  [[Gym](https://www.gymlibrary.dev/)]. The environment is considered solved when achieving a final score of 200 points or higher on average over the last 100 consecutive runs. 
 
 ## Dependencies
 Python==3.7.16 
@@ -26,3 +26,7 @@ python main.py
 
 ## Results
 The LunarLander agent is able to reach the target score of 200 by 526 episodes.
+![The agent's score of the last 100 training episoides]()
+
+### Contact
+This is my re-implementation of the paper. If there are any questions, please contact **Whitney Chiu** <wchiu@gatech.edu>
