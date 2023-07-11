@@ -29,4 +29,4 @@ The LunarLander agent is able to reach the target score of 200 by 526 episodes.
 ![The agent's score of the last 100 training episoides](https://github.com/whitneychiu/deep_q_learning_pytorch/blob/master/training_last_100_score_curve.png?raw=true)
 
 ### Contact
-This is my re-implementation of the paper. If there are any questions, please contact **Whitney Chiu** <wchiu@gatech.edu>
+This is my implementation of the deep Q-learning solution to the LunarLander-v2. If there are any questions, please contact **Whitney Chiu** <wchiu@gatech.edu>
