@@ -337,9 +337,9 @@ if __name__ == "__main__":
     plot_all_score_curve("figures", scores)
     plot_reward_of_last_100_episode("figures", last_100_scores)
 
-    # Hyperparameter testing
-    lr_experiment()
-    gamma_experiment()
-    epsilon_decay_experiment()
+    # Hyperparameter testing #Optional
+    # lr_experiment()
+    # gamma_experiment()
+    # epsilon_decay_experiment()
 
     
