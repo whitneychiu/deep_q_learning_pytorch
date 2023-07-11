@@ -1,4 +1,4 @@
-# Deep Q Learning - LunarLander
+# Deep Q Learning - LunarLander (PyTorch)
 This is the implementation of the deep Q-learning [[paper](https://arxiv.org/abs/1312.5602)] to solve the LunarLander-v2 environment from OpenAI  [[Gym](https://www.gymlibrary.dev/)]. The environment is considered solved when achieving a final score of 200 points or higher on average over the last 100 consecutive runs. 
 
 ### Dependencies
